@@ -10,5 +10,4 @@ To install the necessary dependencies, use pip. Ensure you have Python installed
 ```bash
 pip install tensorflow streamlit mysql-connector-python
 
-```bash
 streamlit run main.py
